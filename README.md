@@ -29,7 +29,7 @@ The sample is one skill. The Vault is the whole starter setup — 17 files:
 
 ## Get the full Vault
 
-**Solopreneur Hardened Starter Vault — $29 on Gumroad:** https://podcaster732.gumroad.com/l/llmtu
+**Solopreneur Hardened Starter Vault — $29 on Gumroad:** https://podcaster732.gumroad.com/l/ricisi
 
 ## Why these fences
 
